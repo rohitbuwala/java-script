@@ -1,0 +1,24 @@
+/* .box {
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    border: 2px solid black;
+    text-align: center;
+    background-color: aqua;
+} */
+/* 
+#box {
+    height: 180px;
+    width: 150px;
+    background-color: burlywood;
+    color: aliceblue;
+    border: 2px solid black;
+} */
+
+.content {
+    color: red;
+}
+
+.newclass {
+    background-color: green;
+}

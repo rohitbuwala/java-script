@@ -1,0 +1,15 @@
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(64, 140, 207);
+} */
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
