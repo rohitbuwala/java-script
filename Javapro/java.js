@@ -202,6 +202,8 @@ function newgame(newGame) {
 
 const insret =document.querySelector('#insert')
 
+console.log(insret)
+
 window.addEventListener('keydown',(e)=>{
     insret.innerHTML=`
     <table>
